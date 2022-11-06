@@ -1,0 +1,15 @@
+{
+  "name": "jsaqa7.7.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "apitest": "npx cypress run --record --key 25bd810d-d3be-4f88-b2aa-09ee0039a626"
+  },
+  "keywords": [],
+  "author": "Wantsomecorgz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
